@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Programando Sabores</title>
-    <link>https://username.github.io/tags/</link>
+    <link>https://vazmf.github.io/programando-sabores/public/tags/</link>
     <description>Recent content in Tags on Programando Sabores</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>maria.romero@edu.unifil.br (Maria Fernanda Vaz Romero)</managingEditor>
-    <webMaster>maria.romero@edu.unifil.br (Maria Fernanda Vaz Romero)</webMaster><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>maria.romero@edu.unifil.br (Maria Fernanda Vaz Romero)</webMaster><atom:link href="https://vazmf.github.io/programando-sabores/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
