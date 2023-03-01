@@ -1,4 +1,5 @@
 baseurl = "https://vazmf.github.io/programando-sabores/public/"
+publishDir = "public"
 DefaultContentLanguage = "en"
 title = "Programando Sabores"
 theme = "beautifulhugo"
