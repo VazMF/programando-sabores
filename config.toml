@@ -1,4 +1,4 @@
-baseurl = "https://vazmf.github.io/programando-sabores/public/"
+baseurl = "https://vazmf.github.io/programando-sabores/"
 DefaultContentLanguage = "en"
 title = "Programando Sabores"
 theme = "beautifulhugo"
