@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vazmf.github.io/programando-sabores/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/post/2015-01-27-cookies/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/post/2015-01-27-cookies/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/post/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/post/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/post/2015-01-19-pao/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/post/2015-01-19-pao/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/post/2015-01-15-frango/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/post/2015-01-15-frango/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/post/2015-01-04-risoto/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/post/2015-01-04-risoto/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/categories/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/categories/</loc>
   </url><url>
-    <loc>https://vazmf.github.io/programando-sabores/tags/</loc>
+    <loc>https://vazmf.github.io/programando-sabores/public/tags/</loc>
   </url>
 </urlset>
