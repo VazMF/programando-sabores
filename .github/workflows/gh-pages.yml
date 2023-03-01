@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master # mude aqui o nome da branch para a que deseja monitorar
+      - main # mude aqui o nome da branch para a que deseja monitorar
 
 jobs:
   deploy:
