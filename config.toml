@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "A arte de programar sabores na sua cozinha!"
+  subtitle = "A arte de programar sabores na sua cozinha :)"
   mainSections = ["post","posts"]
   logo = "img/cooking-code.png" # Expecting square dimensions
   favicon = "img/cooking-code.png"
